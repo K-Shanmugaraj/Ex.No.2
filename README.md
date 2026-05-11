@@ -167,6 +167,8 @@ the backbone of cryptocurrencies like Bitcoin and is also used in tracking
 goods, securing medical records, and more. 
 
 # Copilot  
+--<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/9c9312f7-e305-4efa-b3c3-9eecce508499" />
+
 ## 1. Zero-Shot Prompting 
 **Prompt:** "Summarize the following article." 
 **Summary:** 
@@ -300,7 +302,7 @@ Run all four prompting techniques on all four platforms
 Result for the execution: 
 ![Screenshot 2025-05-08 080701](https://github.com/user-attachments/assets/14c28828-2724-41f7-8e1f-30473073c79b)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4eaed6d8-3fa2-464e-97c8-4bdbb5105aca" />
+<img width="1536" height="749" alt="e2d783bb-0b21-484d-8967-d175717bb929" src="https://github.com/user-attachments/assets/1007647c-da90-4ece-a702-aaa2e700a8da" />
 
 
 # RESULT: 
