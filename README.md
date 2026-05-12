@@ -222,87 +222,85 @@ platform provides the best summary in terms of:
 # ChatGPT (GPT-4.5) 
 **Accuracy:** High 
 Captures key concepts like decentralization, immutability, and applications 
-beyond cryptocurrency. 
+beyond cryptocurrency. <br>
 **Coherence:** Very High 
 Well-structured and logically flows from explanation to examples; suitable 
-for student comprehension. 
+for student comprehension. <br>
 **Simplicity:** Excellent 
 Uses relatable metaphors (e.g., digital notebook), making technical terms 
-digestible for undergrads. 
+digestible for undergrads. <br>
 **Speed:** Fast 
-Returns a high-quality summary within seconds. 
+Returns a high-quality summary within seconds. <br>
 **User Experience:** Excellent 
 Interface is user-friendly, and output feels tailored and polished for the 
-educational context. 
+educational context. <br>
 
 # Gemini (Google) 
 **Accuracy:** High 
 Covers fundamental aspects like block linking and security features; slight 
-underemphasis on real-world use cases. 
+underemphasis on real-world use cases. <br>
 **Coherence:** High 
-Flows well but occasionally feels more generic than student-tailored. 
+Flows well but occasionally feels more generic than student-tailored. <br>
 **Simplicity:** Good 
 Clear language, though explanations may lack the creativity or analogies 
-found in ChatGPT. 
+found in ChatGPT. <br>
 **Speed:** Very Fast 
-Delivers output nearly instantly. 
+Delivers output nearly instantly. <br>
 **User Experience:** Good 
 Efficient but lacks customization depth; output may feel “template-like” at 
-times. 
+times. <br>
 
 # Claude (Anthropic) 
 **Accuracy:** High 
 Includes all essential components: block structure, decentralization, 
-real-world applications. 
+real-world applications. <br>
 **Coherence:** Very High 
 Summary reads smoothly and logically connects ideas for a student 
-audience. 
+audience. <br>
 **Simplicity:** Excellent 
-Uses analogies and clear language very effectively, second only to ChatGPT. 
+Uses analogies and clear language very effectively, second only to ChatGPT. <br>
 **Speed:** Moderate to Fast 
-Slightly slower than Gemini or ChatGPT but still prompt. 
+Slightly slower than Gemini or ChatGPT but still prompt. <br>
 **User Experience:** Very Good 
 Friendly tone and human-like responses, though interface feels less refined 
-than ChatGPT's. 
+than ChatGPT's. <br>
 
 # Copilot (Microsoft) 
 **Accuracy:** Moderate to High 
-Hits basic points but can miss nuances or provide repetitive phrasing. 
+Hits basic points but can miss nuances or provide repetitive phrasing. <br>
 **Coherence:** Moderate 
-The structure is serviceable, but transitions can feel mechanical. 
+The structure is serviceable, but transitions can feel mechanical. <br>
 **Simplicity:** Good 
-Language is simple, but lacks depth or creative explanation. 
+Language is simple, but lacks depth or creative explanation. <br>
 **Speed:** Fast 
-Fast generation time, similar to ChatGPT. 
+Fast generation time, similar to ChatGPT. <br>
 **User Experience:** Fair 
 Integrated into developer tools, not ideal for educational use cases; lacks 
-interactivity. 
+interactivity. <br>
 
 
 # ALGORITHM (Methodology) 
-Preparation: 
+**Preparation:**
 Select or write a 500-word article titled “The Basics of Blockchain 
-Technology.” 
+Technology.”
 Standardize the text input across all platforms. 
-Define Prompting Techniques 
-Zero-Shot Prompting: “Summarize the following article.” 
-Few-Shot Prompting: Provide 2–3 example summaries and then ask for a 
-summary. 
-Chain-of-Thought Prompting: Instruct the AI to think step-by-step before 
-summarizing. 
-Role-Based Prompting: Ask the AI to act as a "professional content curator 
-for students" while summarizing. 
+Define Prompting Techniques <br>
+**Zero-Shot Prompting:** “Summarize the following article.” <br>
+**Few-Shot Prompting:** Provide 2–3 example summaries and then ask for a 
+summary. <br>
+**Chain-of-Thought Prompting:** Instruct the AI to think step-by-step before 
+summarizing. <br>
+**Role-Based Prompting:** Ask the AI to act as a "professional content curator 
+for students" while summarizing. <br>
 # Platforms Evaluated 
-ChatGPT (GPT-4.5) 
-Gemini (Google) 
-Claude (Anthropic) 
-Copilot (Microsoft) 
-Execution 
+ChatGPT (GPT-4.5) <br>
+Gemini (Google) <br>
+Claude (Anthropic) <br>
+Copilot (Microsoft) <br>
+**Execution** <br>
 Run all four prompting techniques on all four platforms 
 Result for the execution: 
-![Screenshot 2025-05-08 080701](https://github.com/user-attachments/assets/14c28828-2724-41f7-8e1f-30473073c79b)
-
-<img width="1536" height="749" alt="e2d783bb-0b21-484d-8967-d175717bb929" src="https://github.com/user-attachments/assets/1007647c-da90-4ece-a702-aaa2e700a8da" />
+<img width="1048" height="481" alt="PRP2" src="https://github.com/user-attachments/assets/abc489f7-6ca2-4fdd-82ea-8198158cd560" />
 
 
 # RESULT: 
