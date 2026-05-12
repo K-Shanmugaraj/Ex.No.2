@@ -29,7 +29,7 @@ a promising tool for various industries seeking secure and efficient data
 management. 
 ## 2. Few-Shot Prompting 
 **Prompt:** "Here are examples of summaries for technical articles. [Provide 
-2–3 examples.] Now, summarize the following article." 
+2–3 examples.] Now, summarize the following article." <br>
 **Summary:** 
 Blockchain functions as a decentralized ledger, recording transactions in 
 linked blocks across a network. Each block contains a timestamp and a 
@@ -42,7 +42,7 @@ records, and digital identity verification, offering enhanced security and
 efficiency. 
 ## 3. Chain-of-Thought Prompting 
 **Prompt:** "Let's think step-by-step. First, explain how blockchain works, then 
-summarize its key applications." 
+summarize its key applications." <br>
 **Summary:** 
 Blockchain operates by storing data in blocks that are cryptographically 
 linked, forming a chain. Each block contains transaction data, a timestamp, 
@@ -55,7 +55,7 @@ contracts. Its ability to provide transparent, immutable records makes it
 valuable across various sectors. 
 ## 4. Role-Based Prompting 
 **Prompt:** "You are a professional content curator for students. Summarize the 
-article in simple terms." 
+article in simple terms." <br>
 **Summary:** 
 Imagine a digital notebook shared among many people, where each page 
 (block) records transactions. Once a page is filled, it's linked to the previous 
@@ -70,7 +70,7 @@ make it useful in many fields.
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c475443d-c82c-4bc0-93ce-be9d5c4bd7fe" />
 
 ## 1. Zero-Shot Prompting 
-**Prompt:** "Summarize the following article." 
+**Prompt:** "Summarize the following article." <br>
 **Summary:** 
 Blockchain is a secure, decentralized ledger technology that records 
 transactions across multiple computers. Each transaction is stored in a block, 
@@ -82,7 +82,7 @@ like Bitcoin but also finds applications in supply chain management,
 healthcare, and voting systems due to its transparency and security features. 
 ## 2. Few-Shot Prompting 
 **Prompt:** "Here are examples of summaries for technical articles. [Provide 
-2–3 examples.] Now, summarize the following article." 
+2–3 examples.] Now, summarize the following article." <br>
 **Summary:** 
 Blockchain functions as a decentralized ledger, recording transactions in a 
 series of linked blocks across a network. Each block contains a timestamp 
@@ -94,7 +94,7 @@ healthcare data management, and digital identity verification, offering
 enhanced efficiency and trust. 
 ## 3. Chain-of-Thought Prompting 
 **Prompt:** "Let's think step-by-step. First, explain how blockchain works, then 
-summarize its key applications." 
+summarize its key applications." <br>
 **Summary:** 
 Blockchain operates by storing data in blocks that are cryptographically 
 linked, forming an immutable chain. Each block contains transaction data, a 
@@ -106,7 +106,7 @@ securing healthcare records, and enabling smart contracts, making it a
 versatile technology across industries. 
 ## 4. Role-Based Prompting 
 **Prompt:** "You are a professional content curator for students. Summarize the 
-article in simple terms." 
+article in simple terms." <br>
 **Summary:** 
 Think of blockchain as a digital ledger shared among many people. Each 
 entry, or block, records a transaction and is linked to the previous one, 
@@ -120,7 +120,7 @@ more, thanks to its transparency and reliability.
 <img width="503" height="256" alt="image" src="https://github.com/user-attachments/assets/ef83a219-62d2-4e72-9a8d-bb6c420e87eb" />
 
 ## 1. Zero-Shot Prompting 
-**Prompt:** "Summarize the following article." 
+**Prompt:** "Summarize the following article." <br>
 **Summary:** 
 Blockchain is a decentralized digital ledger that records transactions across a 
 network of computers. Each transaction is stored in a block, which is linked 
@@ -132,7 +132,7 @@ Bitcoin but also has applications in supply chain management, healthcare,
 and voting systems. 
 ## 2. Few-Shot Prompting 
 **Prompt:** "Here are examples of summaries for technical articles. [Provide 
-2–3 examples.] Now, summarize the following article." 
+2–3 examples.] Now, summarize the following article." <br>
 **Summary:** 
 Blockchain functions as a decentralized ledger, recording transactions in 
 linked blocks across a network. Each block contains a timestamp and a 
@@ -144,7 +144,7 @@ cryptocurrencies, it's applied in areas like supply chain tracking, healthcare
 records, and digital identity verification. 
 ## 3. Chain-of-Thought Prompting 
 **Prompt:** "Let's think step-by-step. First, explain how blockchain works, then 
-summarize its key applications." 
+summarize its key applications." <br>
 **Summary:**
 Blockchain operates by storing data in blocks that are cryptographically 
 linked, forming a chain. Each block contains transaction data, a timestamp, 
@@ -156,7 +156,7 @@ supply chain transparency, securing healthcare records, and enabling smart
 contracts. 
 ## 4. Role-Based Prompting 
 **Prompt:** "You are a professional content curator for students. Summarize the 
-article in simple terms." 
+article in simple terms." <br>
 **Summary:** 
 Imagine a digital notebook shared among many people, where each page 
 (block) records transactions. Once a page is filled, it's linked to the previous 
@@ -170,7 +170,7 @@ goods, securing medical records, and more.
 --<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/9c9312f7-e305-4efa-b3c3-9eecce508499" />
 
 ## 1. Zero-Shot Prompting 
-**Prompt:** "Summarize the following article." 
+**Prompt:** "Summarize the following article." <br>
 **Summary:** 
 Blockchain is a decentralized digital ledger that records transactions across a 
 network of computers. Each transaction is stored in a block, which is linked 
@@ -182,7 +182,7 @@ Bitcoin but also has applications in supply chain management, healthcare,
 and voting systems. 
 ## 2. Few-Shot Prompting 
 **Prompt:** "Here are examples of summaries for technical articles. [Provide 
-2–3 examples.] Now, summarize the following article." 
+2–3 examples.] Now, summarize the following article." <br>
 **Summary:** 
 Blockchain functions as a decentralized ledger, recording transactions in 
 linked blocks across a network. Each block contains a timestamp and a 
@@ -194,7 +194,7 @@ cryptocurrencies, it's applied in areas like supply chain tracking, healthcare
 records, and digital identity verification. 
 ## 3. Chain-of-Thought Prompting 
 **Prompt:** "Let's think step-by-step. First, explain how blockchain works, then 
-summarize its key applications." 
+summarize its key applications." <br>
 **Summary:** 
 Blockchain operates by storing data in blocks that are cryptographically 
 linked, forming a chain. Each block contains transaction data, a timestamp, 
@@ -206,7 +206,7 @@ supply chain transparency, securing healthcare records, and enabling smart
 contracts. 
 ## 4. Role-Based Prompting 
 **Prompt:** "You are a professional content curator for students. Summarize the 
-article in simple terms" 
+article in simple terms" <br>
 **summary:** 
 Think of blockchain as a special kind of digital notebook that’s shared among 
 many people. Whenever something happens—like a transaction—it gets 
